@@ -1,0 +1,9 @@
+pandas
+pandas
+numpy
+matplotlib
+seaborn
+folium
+geographiclib
+scikit-learn
+-e .
