@@ -6,4 +6,7 @@ seaborn
 folium
 geographiclib
 scikit-learn
--e .
+pyproject-toml
+catboost
+xgboost
+#-e .
